@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJ18x2VK/ikFKKfCUUKptBtYr2oY/nr22fReSqcl3yTRleVx7/DzRyjQUQ1od/9+SXcWiScLw/O5KsUBQQlThg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sean\\source\\repos\\SprintWebScrapping\\SprintWebScrapping\\SprintWebScrapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512",
+    "C:\\Users\\sean\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+  "logs": []
+}
